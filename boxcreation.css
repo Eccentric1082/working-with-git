@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: o;
+}
+
+.container{
+    float: left;
+    width: 25%;
+    min-height: 600px;
+    background-color: transparent;
+    margin-left: 37.5%;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.houseImage{
+    float: left;
+    width: 100%;
+    height: 270px;
+    background-color:teal;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-image: url(housee.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.price{
+    float:left;
+    width: 100%;
+    height: 150px;
+    background-color:transparent;
+}
+.priceDetails{
+    float:left;
+    width: 75%;
+    height: 130px;
+    margin-top: 20px;
+    margin-left: 7%;
+    background-color:transparent;
+}
+.priceTitle{
+    float:left;
+    width: 100%;
+    height: 30px;
+    background-color:transparent;
+}
+
+.priceTitle p{
+    font-size: 16px;
+    padding-top: 4px;
+    font-family:Arial;
+    font-weight: 800;
+}
+
+.fa-circle{
+    font-size: 6px;
+    position: absolute;
+    top:10px;
+    right: 82px;
+}
+
+.priceAmount{
+    float:left;
+    width: 100%;
+    height: 40px;
+    background-color: transparent;
+    margin-top: 5px;
+    
+}
+.priceAmount p{
+    font-size: 15px;
+    padding-top: 2px;
+    font-family:Arial;
+    font-weight: 50;
+}
+.priceAddress{
+    float:left;
+    width: 100%;
+    height: 45px;
+    margin-top: 5px;
+    background-color: transparent;
+}
+
+.priceAddress p{
+    font-size: 20px;
+    padding-top: 4px;
+    font-family: arial;
+    font-weight: 500;
+}
+
+
+.room{
+    float: left;
+    width: 100%;
+    height: 70px;
+    border-top: 2px solid lightgrey;
+    border-bottom: 2px solid lightgray;
+    background-color: transparent; 
+}
+
+.roomService{
+    float: left;
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 5%;
+    height: 40px;
+    background-color: transparent;
+}
+.service1{
+    float: left;
+    width: 40%;
+    height: 35px;
+    background-color: transparent;
+}
+
+.fa-bed{
+    font-size:25px;
+    color:rgb(100,100,100);
+}
+
+.bed{
+    font-size:25px;
+    font-family: arial;
+}
+
+.service2{
+    float: right;
+    width: 40%;
+    height: 35px;
+    background-color: transparent;
+}
+
+.fa-bath{
+    font-size:25px;
+    color:rgb(100,100,100);
+}
+
+.bath{
+    font-size:25px;
+    font-family: arial;
+}
+
+.profile{
+    float: left;
+    width: 100%;
+    height: 140px;
+    background-color: transparent;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px; 
+}
+
+.profileDetail{
+    float: left;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 5%;
+    height: 90px;
+    background-color: transparent;
+}
+
+.profileTitle{
+    float: left;
+    width: 60%;
+    height: 25px;
+    background-color: transparent;
+}
+
+.profileInfo{
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+    height: 60px;
+    background-color: transparent;
+}
+
+
+.profileImage{
+    float: left;
+    width: 60px;
+    height: 60px;
+    border-radius:100px;
+    background-color: green;
+}
+
+.profileImageDetail{
+    float: left;
+    width: 60%;
+    height: 60px;
+    margin-left:8%;
+    background-color: transparent;
+}
+
+.imageName{
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: transparent;
+}
+
+.imageNumber{
+    float: left;
+    width: 100%;
+    height: 25px;
+    margin-top: 10px;
+    background-color: transparent;
+}
