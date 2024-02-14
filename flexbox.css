@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    min-height: 100px;
+    background-color: yellow;
+    display: flex;
+    justify-content: flex-end;
+    /*flex-direction: column;
+    gap: 10px;*/
+}
+
+.div1{
+    width: 30%;
+    height: 100px;
+    background: blue;
+}
+
+.div2{
+    width: 30%;
+    height: 100px;
+    background: pink;
+}
+
+.div3{
+    width: 30%;
+    height: 100px;
+    background: green;
+}
+
+.container{
+    margin-top: 10px;
+    width: 100%;
+    min-height: 100px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tanker{
+    margin-top: 10px;
+    width: 100%;
+    min-height: 100px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+}
